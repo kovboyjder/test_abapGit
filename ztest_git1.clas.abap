@@ -16,5 +16,6 @@ CLASS ZTEST_GIT1 IMPLEMENTATION.
 
 
   method HELLOW.
+* Hello World
   endmethod.
 ENDCLASS.
