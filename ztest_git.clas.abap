@@ -6,6 +6,7 @@ class ZTEST_GIT definition
 public section.
 
   methods NEW_METHOD .
+  methods AAAH .
 protected section.
 private section.
 ENDCLASS.
@@ -13,6 +14,11 @@ ENDCLASS.
 
 
 CLASS ZTEST_GIT IMPLEMENTATION.
+
+
+  method AAAH.
+* New changes
+  endmethod.
 
 
   method NEW_METHOD.
